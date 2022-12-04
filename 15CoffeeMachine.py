@@ -32,7 +32,7 @@ resources = {
     "coffee": 100,
 }
 
-
+# adding a test comment
 # printing a report
 print(f"Water: {resources['water']}ml")
 print(f"Milk: {resources['milk']}ml")
